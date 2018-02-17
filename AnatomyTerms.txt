@@ -1,0 +1,98 @@
+abdominal - the region between the thorax and pelvis
+acromial - the point of the shoulder
+antebrachial - the forearm
+antecubital - the space in front of the elbow
+axillary - the armpit
+brachial - the arm
+buccal - the cheek
+carpal - the wrist
+celiac - the abdomen
+cephalic - the head
+cervical - the neck
+costal - the ribs
+coxal - the hip
+crural - the leg
+cubital - the elbow
+digital - the finger
+dorsal - the back
+femoral - the thigh
+frontal - the forehead
+genital - the reproductive organs
+gluteal - the buttocks
+inguinal - the depressed area of the abdominal wall near the thigh (groin)
+lumbar - the region of the lower back between the ribs and the pelvis
+mammary - the breast
+mental - the chin
+nasal - the nose
+occipital - the lower posterior region of the head
+oral - the mouth
+orbital - the eye cavity
+otic - the ear
+palmar - the palm of the hand
+patellar - the front of the knee
+pectoral - the chest
+pedal - the foot
+pelvic - the pelvis
+perineal - the region between the anus and the external reproductive organs (perineum)
+plantar - the sole of the foot
+popliteal - the area behind the knee
+sacral - the posterior region between the hipbones
+sternal - the middle of the thorax, anteriorly
+tarsal - the instep of the foot
+umbilical - the navel
+vertebral - the spinal column
+cardiology - branch of medical science dealing wit the heart and heart diseases
+cytology - study of the structure, function, and abnormalities of cells
+dermatology - study of the skin and its diseases
+endocrinology - study of hormones, hormone-secreting glands, and their diseases
+epidemiology - study of the factors determining the distribution and frequency of health-related conditions occurring within a defined human population
+gastroenterology - study of the stomach and intestines and their diseases
+geriatrics - branch of medicine dealing with older individuals and their medical problems
+gerontology - study of the aging process
+gynecology - study of the female reproductive system and its diseases
+hematology - study of the blood and blood diseases
+histology - study of the structure and function of tissues, also called microscopic anatomy
+immunology - study of the body's resistance to infectious disease
+neonatology - study of newborns and the treatment of their disorders
+nephrology - study of the structure, function, and diseases of the kidneys
+neurology - study of the nervous system and its disorders
+obstetrics - branch of medicine dealing with pregnancy and childbirth
+oncology - study of cancers
+ophthalmology - study of the eye and eye diseases
+orthopedics - branch of medicine dealing with the muscular and skeletal systems and their problems
+otolaryngology - study of the ear, throat, larynx, and their diseases
+pathology - study of structural and functional changes that disease causes
+pediatrics - branch of medicine dealing with children and their diseases
+pharmacology - study of drugs and their uses in the treatment of disease
+podiatry - study of the care and treatment of feet
+psychiatry - branch of medicine dealing with the mind and its disorders
+radiology - study of X rays and radioactive substances and their uses in the diagnosis and treatment of diseases
+toxicology - study of poisonous substances and their effects upon body parts
+urology - branch of medicine dealing with the urinary system, apart from the kidneys (nephrology) and the male reproductive system, and their diseases
+Abduction - movement away from axis of trunk, as in raising arms to the side horizontally, leg sideward, and scapula away from the spinal column
+adduction - movement toward axis of trunk, as in lowering arms to the side or leg back to anatomical position
+extension - straightening; moving bones apart, as when hand moves away from shoulder. Exception: shoulder joint- return movement from shoulder joint flexion
+eversion - turning sole outward; weight on inner edge of the foot
+inversion - turning sole inward; weight on outer edge of the foot
+dorsal flexion - movement of top of foot toward anterior tibia bone
+plantar flexion - movement of sole downward toward the floor
+pronation - rotation on axis of bone, specifically applied to the forearms, as in turning hand down by rotating radius on the ulna.
+supination - rotation on axis of bone, specifically applied to forearms, as in turning hand up by rotating the radius on the ulna
+horizontal flexion (adduction) - movement of the humerus from the side-horizontal to the front-horizontal position
+horizontal extension (abduction) - return to the side-horizontal position
+rotation inward - rotation with axis of bone toward body, as when the humerus is turned inward
+rotation outward - rotation with axis of bone away from body, as when the humerus is turned outward
+rotation upward - rotation against gravity, as in turning glenoid fossa upward
+rotation downward - rotation with gravity, as in returning glenoid fossa to normal position from upward rotation
+elevation - movement upward, as in shrugging the shoulders
+depression - movement returning to the normal position
+superior (cranial or cephalad) - toward the head end or upper part of structure or the body; above
+inferior (caudal) - away from the head end or toward the lower part of the structure or the body; below
+anterior (ventral) - toward or at the front of the body; in front of
+posterior (dorsal) - toward or at the back of the body; behind
+medial - toward or at the midline of the body; on the inner side of
+lateral - away from the midline of the body; on the outer side of
+proximal - closer to the origin of the body part or the point of attachment of a limb to the body trunk
+distal - farther from the origin of a body part or the point of attachment of a limb to the body trunk
+superficial - toward or at the body surface
+deep - away from the body surface; more internal
