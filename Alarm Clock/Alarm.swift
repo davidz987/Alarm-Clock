@@ -68,7 +68,7 @@ class Alarm: NSObject, NSCoding {
         content.body = NSString.localizedUserNotificationString(forKey: "Rise and shine! It's morning time!",
                                                                 arguments: nil)
         content.categoryIdentifier = "Alarm_going_off"
-        content.sound = UNNotificationSound(named: "Constellation.aiff")
+        content.sound = UNNotificationSound(named: convertToUNNotificationSoundName("Constellation.aiff"))
         
         let center = UNUserNotificationCenter.current()
         
@@ -197,4 +197,9 @@ class Alarm: NSObject, NSCoding {
         self.init(hour: Int(hour)!, minute: Int(minute)!, index: Int(String(index))!, on_off: Bool(On_Off)!)
     }
     
+}
+
+// Helper function inserted by Swift 4.2 migrator.
+fileprivate func convertToUNNotificationSoundName(_ input: String) -> UNNotificationSoundName {
+	return UNNotificationSoundName(rawValue: input)
 }
